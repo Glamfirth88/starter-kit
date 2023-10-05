@@ -2,6 +2,8 @@
 
 Welcome! 
 
+Super random edits by me (LJ)
+
 This repository is archived, as all files have been given new homes. You will find the same information in the following locations:
 
 * [our organizational guidance, as an online book](https://guide.rladies.org)
